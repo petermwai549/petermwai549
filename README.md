@@ -58,7 +58,7 @@ Murang'a University of Techonogy, Kenya
 
 ## 🏅 Certifications & Courses
 
-- MAWS Cloud Fundamentals (Self-taught with practical experience)
+- AWS Cloud Fundamentals (Self-taught with practical experience)
 - Ubuntu Server Administration (Professional experience since 2019)
 
 ---
