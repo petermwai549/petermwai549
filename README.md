@@ -3,7 +3,7 @@
 
 🧑‍💻 **Software Engineer** | 🌐 **Full Stack Developer** | 🛠 **Tech Support Specialist** | 📊 **Data Analyst** | 🤖 **AI Enthusiast**
 
-Welcome to my GitHub profile! I'm a passionate and versatile Software Engineer with 3+ years of experience delivering end-to-end solutions through full-stack development, solving real-world problems using data, and supporting users through excellent technical assistance.
+Welcome to my GitHub profile! I'm a passionate and versatile Software Engineer with 5+ years of experience delivering end-to-end solutions through full-stack development, solving real-world problems using data, and supporting users through excellent technical assistance.
 
 ---
 
