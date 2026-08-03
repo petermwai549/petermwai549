@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Peter Mwai
 
-🧑‍💻 **Software Engineer** | 🌐 **Full Stack Developer** | 🛠 **Tech Support Specialist** | 📊 **Data Analyst** | 🤖 **AI Enthusiast**
+🧑‍💻 **Senior Software Engineer** | 🌐 **Full Stack Developer** | 🛠 **Tech Support Specialist** | 📊 **Data Analyst** | 🤖 **AI Enthusiast**
 
 Welcome to my GitHub profile! I'm a passionate and versatile Software Engineer with 5+ years of experience delivering end-to-end solutions through full-stack development, solving real-world problems using data, and supporting users through excellent technical assistance.
 
@@ -13,13 +13,13 @@ Welcome to my GitHub profile! I'm a passionate and versatile Software Engineer w
 `JavaScript`, `PHP`, `Python`, `SQL`, `HTML5`, `CSS3`
 
 **Frameworks & Libraries:**  
-`Laravel`, `Vue.js`, `Livewire`, `Bootstrap`, `jQuery`, `React JS`, `Django`, `Flask`,`WordPress`,
+`Laravel`, `Vue.js`, `Livewire`, `React`, `Django`, `Flask`,`Bun`, `Tailwind CSS`
 
 **Tools & Platforms:**  
 `Git`, `Docker`, `VS Code`, `Postman`, `Figma`, `Firebase`, `cPanel`, `GitHub Actions`
 
 **Databases:**  
-`MySQL`, `SQLite`,`NoSQL`
+`MySQL`, `SQLite`,`NoSQL`,`PostgreSQL`
 
 **Data Analysis:**  
 `Pandas`, `NumPy`, `Excel`, `Power BI`
